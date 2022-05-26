@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face {
+    font-family: 'San Francisco Pro Display Thin';
+    src: url('../src/media/fonts/sf_pro_display/SFProDisplay-Thin.eot');
+    src: url('../src/media/fonts/sf_pro_display/SFProDisplay-Thin.eot?#iefix') format('embedded-opentype'),
+    url('../src/media/fonts/sf_pro_display/SFProDisplay-Thin.woff') format('woff'),
+    url('../src/media/fonts/sf_pro_display/SFProDisplay-Thin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    }
+
